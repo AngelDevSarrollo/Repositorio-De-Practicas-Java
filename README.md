@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Repositorio de practicas Java
 Bienvenido a mi **Repositorio de practicas Java**, un repositorio que recopila todos los ejercicios de programación en Java que he realizado y seguiré realizando para aprender 
 y mejorar mis habilidades en este lenguaje.
@@ -15,6 +14,5 @@ y mejorar mis habilidades en este lenguaje.
 
 **Proyectos**: Proyectos más grandes que integran múltiples conceptos y técnicas.
 
-=======
 # Repositorio-De-Practicas-Java
 
