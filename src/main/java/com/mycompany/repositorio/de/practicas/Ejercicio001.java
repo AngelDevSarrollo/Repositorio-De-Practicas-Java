@@ -10,6 +10,5 @@ Imprime en la consola un Hola mundo
 public class Ejercicio001 {
     public static void main (String [] args){
         System.out.println("Hola Mundo!.");
-    }
-    
+    }   
 }
