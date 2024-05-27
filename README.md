@@ -7,6 +7,7 @@ y mejorar mis habilidades en este lenguaje.
 - Ejercicio001 "Hola Mundo" https://github.com/AngelDevSarrollo/Repositorio-De-Practicas-Java/blob/master/src/main/java/com/mycompany/repositorio/de/practicas/Ejercicio001.java
 - Ejercicio002 Operadores https://github.com/AngelDevSarrollo/Repositorio-De-Practicas-Java/blob/master/src/main/java/com/mycompany/repositorio/de/practicas/Ejercicio002.java
 - Ejercicio003 Operadores https://github.com/AngelDevSarrollo/Repositorio-De-Practicas-Java/blob/master/src/main/java/com/mycompany/repositorio/de/practicas/Ejercicio003.java
+- Ejercicio004 Mayor que https://github.com/AngelDevSarrollo/Repositorio-De-Practicas-Java/blob/master/src/main/java/com/mycompany/repositorio/de/practicas/Ejercicio004.java
 
 **Estructuras_datos**: Ejercicios relacionados con diferentes estructuras de datos como listas, pilas, colas, etc.
   
